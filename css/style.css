@@ -1,0 +1,10 @@
+body{
+  background-color: #405952;
+  color: #9C9B7A;
+}
+
+.iconSize{
+	display: block;
+	max-width: 100px;
+	margin: 0 auto;
+}
